@@ -1,0 +1,17 @@
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem;
+    background-color: tan;
+    border-style: solid;
+    border-width: 0.5rem;
+    border-color: rgb(70, 56, 42);
+  }
+
+.page {
+    display: inline;
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+  
